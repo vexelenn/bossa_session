@@ -1,0 +1,11 @@
+setup.py
+src/bossa_session/__init__.py
+src/bossa_session/session.py
+src/bossa_session.egg-info/PKG-INFO
+src/bossa_session.egg-info/SOURCES.txt
+src/bossa_session.egg-info/dependency_links.txt
+src/bossa_session.egg-info/not-zip-safe
+src/bossa_session.egg-info/requires.txt
+src/bossa_session.egg-info/top_level.txt
+src/bossa_session/etc/__init__.py
+src/bossa_session/etc/settings.py

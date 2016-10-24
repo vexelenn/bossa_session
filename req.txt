@@ -1,0 +1,31 @@
+day:
+
+http://moja.nova.bossa.pl/notowania/wykresy/data/n.txt?id=FCL&kat_id=x&timestamp=&timeframe=0&timestamp1=&timestamp2=
+
+
+intra:
+notowania/wykresy/data/n_int.txt?id=FER&kat_id=x&timestamp=&timeframe=0
+
+
+
+
+day:
+
+http://moja.nova.bossa.pl/notowania/wykresy/data/n.txt?id=FCL&kat_id=x&timestamp=&timeframe=0&timestamp1=&timestamp2=
+/notowania/wykresy/data/n.txt?id=FER&kat_id=x&timestamp=2016-10-11&timeframe=0&timestamp1=1997-06-27&timestamp2=2016-10-11
+/notowania/wykresy/data/n.txt?id=FER&kat_id=x&timestamp=2016-10-04&timeframe=0&timestamp1=1997-06-27&timestamp2=2016-10-04
+
+
+intra:
+notowania/wykresy/data/n_int.txt?id=FER&kat_id=x&timestamp=&timeframe=0
+  /notowania/wykresy/data/n_int.txt?id=FER&kat_id=x&timestamp=2016-10-12_170001.000&timeframe=0
+    /notowania/wykresy/data/n_int.txt?id=LPP&kat_id=x&timestamp=2016-10-11_170232.000&timeframe=0
+
+
+    /notowania/wykresy/data/n_int.txt?id=KGH&kat_id=all&timestamp=2016-10-19_170453.000&timeframe=0
+    /notowania/wykresy/data/n.txt?id=KGH&kat_id=all&timestamp=&timeframe=0&timestamp1=&timestamp2=
+    /notowania/wykresy/data/n_int.txt?id=KGH&kat_id=all&timestamp=&timeframe=0
+    /notowania/wykresy/data/n_int.txt?id=KPL&kat_id=all&timestamp=&timeframe=0
+    GET
+    /notowania/wykresy/data/n_int.txt?id=KGH&kat_id=all&timestamp=&timeframe=0
+    HTTP/1.1
